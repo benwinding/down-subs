@@ -1,3 +1,5 @@
 .temp
 captions
 out
+**/__pycache__
+**/*.pyc
